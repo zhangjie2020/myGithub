@@ -1,1 +1,2 @@
 # myGithub
+hello word!
